@@ -1,0 +1,41 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: #DEE5E5;
+}
+
+h1{
+    font-family: 'Turret Road', cursive;
+    color: azure;
+    position: relative;
+    margin-top: 20%;
+}
+
+h2{
+    font-family: 'Turret Road', cursive;
+}
+
+p, ul{
+    font-family: 'Ubuntu', sans-serif;
+    position: relative;
+}
+
+.top-container{
+    background-image: url("images/site header.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    padding: 10px;
+    margin: auto;
+}
+
+section{
+    margin: 5% 2%;
+}
+
+.img1, .img2, .img3, .img4, .img5, .img6{
+    float: left;
+    width: 50ex;
+}
+
